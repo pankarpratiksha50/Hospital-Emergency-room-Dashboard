@@ -7,7 +7,7 @@ To design an interactive Excel dashboard that helps visualize and monitor key ho
    📄<a href="https://github.com/pankarpratiksha50/Hospital-Emergency-room-Dashboard/commit/3272883949ddd57bfa72b7db5840312bc815d33e">Dataset <a>
 
 # 📸 View Dashboard
-   <a href=" https://github.com/pankarpratiksha50/Hospital-Emergency-room-Dashboard/blob/main/hospital%20dashboard.png">View Dataset <a>
+<a href=" https://github.com/pankarpratiksha50/Hospital-Emergency-room-Dashboard/blob/main/hospital%20dashboard.png">View Dataset<a>
 
 # 📌 Key KPIs Analyzed
 
