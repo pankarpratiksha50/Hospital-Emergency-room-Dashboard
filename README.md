@@ -12,35 +12,35 @@ To design an interactive Excel dashboard that helps visualize and monitor key ho
 
 # 📌 Key KPIs Analyzed
 
-1️⃣  Total No. of Patients (e.g., 506 in June)
+1.  Total No. of Patients (e.g., 506 in June)
 
-2️⃣  Average Age of Patients
+2.  Average Age of Patients
 
-3️⃣  Average Patient Satisfaction Score
+3. Average Patient Satisfaction Score
 
-4️⃣  Admission Status – Admitted vs Non-Admitted
+4. Admission Status – Admitted vs Non-Admitted
 
-5️⃣  Patient Attendance – Attended vs Not Attended
+5. Patient Attendance – Attended vs Not Attended
 
-6️⃣  Gender-wise Analysis – Male vs Female
+6.  Gender-wise Analysis – Male vs Female
 
-7️⃣  Department-Wise Patient Count
+7.  Department-Wise Patient Count
 
-8️⃣  Age Group Distribution of Patients
+8.  Age Group Distribution of Patients
 
 # ✅ Outcomes / Insights
-🔍 This dashboard helps hospital administrators and health analysts to:
+ This dashboard helps hospital administrators and health analysts to:
 
-📈 Monitor patient flow and monthly changes
+ Monitor patient flow and monthly changes
 
-🚑 Track admission vs non-admission trends
+ Track admission vs non-admission trends
 
-📊 Visualize departmental loads for better resource allocation
+ Visualize departmental loads for better resource allocation
 
-🧑‍⚕️ Identify service patterns by gender and attendance
+ Identify service patterns by gender and attendance
 
-📉 Measure and improve patient satisfaction
+ Measure and improve patient satisfaction
 
-👶 Understand the age profile of ER patients to tailor services
+ Understand the age profile of ER patients to tailor services
 
 
