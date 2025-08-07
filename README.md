@@ -1,16 +1,16 @@
 # 🏥Hospital Emergency Room Dashboard (Monthly Report)
 
-# 🎯 Objective
+#  Objective
 To design an interactive Excel dashboard that helps visualize and monitor key hospital emergency room metrics on a monthly basis, supporting better healthcare decision-making and patient service improvement
 
-# 📂 Dataset Used
+#  Dataset
    📄<a href="https://github.com/pankarpratiksha50/Hospital-Emergency-room-Dashboard/commit/3272883949ddd57bfa72b7db5840312bc815d33e">Dataset <a>
 
-# 📸 View Dashboard
+# View Dashboard
  <a href="https://github.com/pankarpratiksha50/Hospital-Emergency-room-Dashboard/blob/main/hospital%20dashboard.png">View Dashboard<a>
 
 
-# 📌 Key KPIs Analyzed
+#  Key KPIs Analyzed
 
 1.  Total No. of Patients (e.g., 506 in June)
 
@@ -28,7 +28,7 @@ To design an interactive Excel dashboard that helps visualize and monitor key ho
 
 8.  Age Group Distribution of Patients
 
-# ✅ Outcomes / Insights
+#  Outcomes / Insights
  This dashboard helps hospital administrators and health analysts to:
 
  Monitor patient flow and monthly changes
